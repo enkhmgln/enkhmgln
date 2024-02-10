@@ -12,7 +12,7 @@
  <br>
  🌱 I’m currently learning **Node.js, Express.js, Flutter, Next.js**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/enkhmgln/enkhmgln/issues)**
+💬 Ask me about **Javascript, React, Firebase... or anything [here](https://github.com/enkhmgln/enkhmgln/issues)**
 
  </div>
  
