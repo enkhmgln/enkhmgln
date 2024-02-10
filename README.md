@@ -17,7 +17,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:enkhamgalan560@gmail.com" target='_blank'>
+  <a href="mailto:enkhamgalan560@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/enkh-amgalan-narantsetseg-948259264/" target="_blank">
