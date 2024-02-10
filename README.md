@@ -1,20 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=enkhmgln.enkhmgln" />
 
 <h1 align="center">
-    Hi  there, I'm Enkh-amgln! 👋
+    Hi  there, I'm Enkh-amgalan! 👋
 </h1>
 
 <h3 align="center">A passionate software developer from Mongolia 🇲🇳</h3>
 
-<br/>
-
 <div align="center">
  
- 🔭 I’m currently working at **[IO Institute](https://ioi.mn/#)**
+ <h4>🔭 I’m currently working at **[IO Institute](https://ioi.mn/#)**
  
  🌱 I’m currently learning **Node.js, Express.js, Flutter, Next.js**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/enkhmgln/enkhmgln/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/enkhmgln/enkhmgln/issues)**</h4>
 
  </div>
  
