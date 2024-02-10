@@ -8,11 +8,11 @@
 
 <div align="center">
  
- <h4>🔭 I’m currently working at **[IO Institute](https://ioi.mn/#)**
- 
+ 🔭 I’m currently working at **[IO Institute](https://ioi.mn/#)**
+ <br>
  🌱 I’m currently learning **Node.js, Express.js, Flutter, Next.js**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/enkhmgln/enkhmgln/issues)**</h4>
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/enkhmgln/enkhmgln/issues)**
 
  </div>
  
