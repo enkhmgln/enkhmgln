@@ -10,7 +10,7 @@
  
  🔭 I’m currently working at **[IO Institute](https://ioi.mn/#)**
  <br>
- 🌱 I’m currently learning **Node.js, Express.js, Flutter, Next.js**
+ 🌱 I’m currently learning **Express.js, Flutter, Next.js**
 
 💬 Ask me about **Javascript, React, Firebase... or anything [here](https://github.com/enkhmgln/enkhmgln/issues)**
 
@@ -36,8 +36,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs,express,firebase" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,mongodb,c,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,java,cpp,typescript,mongodb,mysql,postgresql,php,html,css" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,tailwind" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,github,git,firebase" /><br>
 </div>
 
 <br/>
