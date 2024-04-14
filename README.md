@@ -10,7 +10,7 @@
  
  🔭 I’m currently working at **[IO Institute](https://ioi.mn/#)**
  <br>
- 🌱 I’m currently learning **Express.js, Flutter, Next.js**
+ 🌱 I’m currently learning **Flutter, Next.js**
 
 💬 Ask me about **Javascript, React, Firebase... or anything [here](https://github.com/enkhmgln/enkhmgln/issues)**
 
