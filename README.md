@@ -56,7 +56,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=symfony,php,dotnet" />
+    <img src="https://skillicons.dev/icons?i=symfony,dotnet" />
 </div>
 
 <h3 align="center">Database Management</h3>
