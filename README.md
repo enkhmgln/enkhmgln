@@ -7,6 +7,7 @@
 <h3 align="center">A Passionate Software Developer from Mongolia 🇲🇳</h3>
 
 <br/>
+</details>
 
 <div align="center">
  
@@ -71,7 +72,12 @@
 
 <br/>
 <hr/>
-
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enkhmgln&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3"/>
+</div>
+<br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
