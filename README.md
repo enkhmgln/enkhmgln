@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I'm currently working as a Software Developer at **[IO Institute](https://ioi.mn/#)**
+ 🔭 I'm currently working as a Software Developer at **[IO Technology](https://iotech.mn)**
  
  🌱 I'm currently exploring **React Native** and **.NET ecosystem**
 
