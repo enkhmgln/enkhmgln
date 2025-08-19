@@ -1,96 +1,40 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=enkhmgln.enkhmgln" />
+# Hi, I'm Enkh-amgalan Narantsetseg 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Enkh-amgalan!;" />
-</h1>
+**Software Developer** | Mongolia 🇲🇳
 
-<h3 align="center">A Passionate Software Developer from Mongolia 🇲🇳</h3>
+Currently working as a Software Developer at **[IO Technology](https://iotech.mn)**, passionate about building innovative solutions and exploring new technologies.
 
-<br/>
-</details>
+## 🚀 What I'm Working On
+
+- Developing software solutions at IO Technology
+- Exploring **React Native** and the **.NET ecosystem**
+- Building projects with modern web technologies
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript, Java, C++, PHP
+
+**Frontend:** React, Next.js, Flutter
+
+**Backend:** Node.js, Express.js, .NET, Symfony
+
+**Database:** MongoDB, MySQL, PostgreSQL
+
+**Tools:** Firebase, Git, GitHub, VS Code, Figma
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enkh-amgalan-narantsetseg-948259264/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enkhamgalan560@gmail.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/enkhmgln)
+
+## 📊 GitHub Stats
 
 <div align="center">
- 
- 🔭 I'm currently working as a Software Developer at **[IO Technology](https://iotech.mn)**
- 
- 🌱 I'm currently exploring **React Native** and **.NET ecosystem**
-
- 💡 I love building innovative solutions and learning new technologies
- 
- ✨ Turning ideas into real-life products is my passion
- 
- 💬 Ask me about **JavaScript, React, Firebase, or anything [here](https://github.com/enkhmgln/enkhmgln/issues)**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:enkhamgalan560@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/enkh-amgalan-narantsetseg-948259264/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/Real.Kaguya" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://dev.to/enkhmgln" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=enkhmgln&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkhmgln&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="165">
 </div>
 
-<hr/>
+---
 
-<h2 align="center">🔥 Technologies & Tools 🔥</h2>
-<br/>
-
-<h3 align="center">Programming Languages</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,cpp,php" />
-</div>
-
-<h3 align="center">Frontend Development</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,bootstrap,tailwind" />
-</div>
-
-<h3 align="center">Backend Development</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=symfony,dotnet" />
-</div>
-
-<h3 align="center">Database Management</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</div>
-
-<h3 align="center">Development Tools</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,github,git" />
-</div>
-
-<br/>
-<hr/>
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enkhmgln&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3"/>
-</div>
-<br/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=enkhmgln&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=enkhmgln&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=enkhmgln&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/>
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Send+me+a+message+on+LinkedIn!;I'm+always+happy+to+collaborate+:)">
-</h3>
+*Open to collaboration and new opportunities. Feel free to reach out!*
