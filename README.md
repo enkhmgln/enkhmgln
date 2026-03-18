@@ -1,32 +1,75 @@
-# Hi, I'm Enkh-amgalan Narantsetseg 👋
+<div align="center">
 
-**Software Developer** | Mongolia 🇲🇳
+# Enkh-amgalan Narantsetseg
 
-Currently working as a Software Developer at **[IO Technology](https://iotech.mn)**, passionate about building innovative solutions and exploring new technologies.
-
-## 🚀 What I'm Working On
-
-- Developing software solutions at IO Technology
-- Exploring **React Native** and the **.NET ecosystem**
-- Building projects with modern web technologies
-
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript, TypeScript, Java, C++, PHP
-
-**Frontend:** React, Next.js, Flutter
-
-**Backend:** Node.js, Express.js, .NET, Symfony
-
-**Database:** MongoDB, MySQL, PostgreSQL
-
-**Tools:** Firebase, Git, GitHub, VS Code, Figma
-
-## 📫 Let's Connect
+**Software Developer · Government Sector · Mongolia 🇲🇳**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enkh-amgalan-narantsetseg-948259264/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enkhamgalan560@gmail.com)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/enkhmgln)
+
+</div>
+
+---
+
+## About Me
+
+Software Developer at the [**Financial Information Technology Center**](https://itc.gov.mn) — a government institution under the Ministry of Finance of Mongolia, responsible for developing and maintaining financial, customs, and tax information systems at a national scale.
+
+I focus on building reliable, scalable software for public-sector digital infrastructure. I care deeply about clean architecture, modern tooling, and delivering solutions that have real impact.
+
+---
+
+## 🔭 Currently Focused On
+
+- **Flutter** — cross-platform mobile development
+- **Bun + Hono** — high-performance modern backend APIs
+- **Angular** — enterprise-grade frontend development
+- **Spring Boot** — robust Java backend services
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Frontend & Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+**Backend & Runtime**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -37,4 +80,6 @@ Currently working as a Software Developer at **[IO Technology](https://iotech.mn
 
 ---
 
-*Open to collaboration and new opportunities. Feel free to reach out!*
+<div align="center">
+  <sub>Open to collaboration and new opportunities — feel free to reach out.</sub>
+</div>
