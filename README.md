@@ -74,8 +74,10 @@ I focus on building reliable, scalable software for public-sector digital infras
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enkhmgln&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkhmgln&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=enkhmgln&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=enkhmgln&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" height="165">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=enkhmgln&theme=default&hide_border=true" alt="GitHub Streak">
 </div>
 
 ---
