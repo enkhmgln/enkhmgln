@@ -2,7 +2,7 @@
 
 # Enkh-amgalan Narantsetseg
 
-**Software Developer · Government Sector · Mongolia 🇲🇳**
+**Software Developer · Startup Founder · Mongolia 🇲🇳**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enkh-amgalan-narantsetseg-948259264/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enkhamgalan560@gmail.com)
@@ -14,25 +14,22 @@
 
 ## About Me
 
-Software Developer at the [**Financial Information Technology Center**](https://itc.gov.mn) — a government institution under the Ministry of Finance of Mongolia, responsible for developing and maintaining financial, customs, and tax information systems at a national scale.
+Independent software developer building my own startup. Previously a developer at the [**Financial Information Technology Center**](https://itc.gov.mn) under Mongolia's Ministry of Finance, where I worked on national-scale financial, customs, and tax systems.
 
-I focus on building reliable, scalable software for public-sector digital infrastructure. I care deeply about clean architecture, modern tooling, and delivering solutions that have real impact.
+I care about clean architecture, modern tooling, and building things that actually matter.
 
 ---
 
 ## 🔭 Currently Focused On
 
-- **Flutter** — cross-platform mobile development
-- **Bun + Hono** — high-performance modern backend APIs
-- **Angular** — enterprise-grade frontend development
-- **Spring Boot** — robust Java backend services
-
----
+- **Django** — deep-diving into Python backend development
+- **Flutter** — cross-platform mobile apps
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -43,15 +40,16 @@ I focus on building reliable, scalable software for public-sector digital infras
 **Frontend & Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 **Backend & Runtime**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
@@ -74,14 +72,18 @@ I focus on building reliable, scalable software for public-sector digital infras
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=enkhmgln&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=enkhmgln&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" height="165">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=enkhmgln&theme=default&hide_border=true" alt="GitHub Streak">
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=enkhmgln&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=enkhmgln&layout=compact&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=enkhmgln&theme=default&hide_border=true)
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Open to collaboration and new opportunities — feel free to reach out.</sub>
+
+<sub>Building something new — open to collaboration and connecting with like-minded people.</sub>
+
 </div>
